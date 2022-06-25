@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>2.png</file>
+        <file>灯.png</file>
+        <file>灯空白.png</file>
+        <file>红人体红外传感器.png</file>
+        <file>红人像.png</file>
+        <file>红太阳.png</file>
+        <file>蓝人体红外传感器.png</file>
+        <file>蓝人像.png</file>
+        <file>蓝月亮.png</file>
+        <file>红烟雾报警器.png</file>
+        <file>蓝烟雾报警器.png</file>
+    </qresource>
+</RCC>
