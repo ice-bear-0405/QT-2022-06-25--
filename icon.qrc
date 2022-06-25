@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>红烟雾报警器.png</file>
+        <file>蓝烟雾报警器.png</file>
+        <file>温度计.png</file>
+        <file>温湿度传感器.png</file>
+        <file>黑粉尘颗粒.png</file>
+        <file>红粉尘颗粒.png</file>
+    </qresource>
+</RCC>
