@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>彩色光照.png</file>
+        <file>灯好看.png</file>
+        <file>红-红外双鉴.png</file>
+        <file>红红外探测器.png</file>
+        <file>蓝-红外双鉴.png</file>
+        <file>蓝红外探测器.png</file>
+        <file>阴天.png</file>
+        <file>关闭.png</file>
+        <file>开启.png</file>
+        <file>光强度.png</file>
+        <file>Watching.png</file>
+    </qresource>
+</RCC>
