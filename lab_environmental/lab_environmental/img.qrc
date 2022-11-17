@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>蓝色端口.png</file>
+        <file>蓝色数字1.png</file>
+        <file>蓝色数字2.png</file>
+        <file>蓝色数字3.png</file>
+        <file>蓝色数字4.png</file>
+        <file>红色风扇.png</file>
+        <file>红色光照.png</file>
+        <file>红色声音.png</file>
+        <file>红色湿度.png</file>
+        <file>红色温度.png</file>
+        <file>红色烟雾报警器.png</file>
+        <file>绿色风扇.png</file>
+        <file>绿色光照.png</file>
+        <file>绿色声音.png</file>
+        <file>绿色湿度.png</file>
+        <file>绿色温度.png</file>
+        <file>绿色烟雾报警器.png</file>
+    </qresource>
+</RCC>
